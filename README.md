@@ -1,6 +1,6 @@
 # Android-MusicPlayer
 
-                                 安卓音乐播放器
+                                              安卓音乐播放器
 
 一、需求分析
 
